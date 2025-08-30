@@ -1,0 +1,305 @@
+{
+  "nav": {
+    "addToDiscord": "Ajouter à Discord"
+  },
+  "hero": {
+    "badge": "Bot Discord de Modération Premium",
+    "title": "PURESYSTEM",
+    "subtitle": {
+      "prefix": "Système de",
+      "verification": "vérification",
+      "comma": ", de",
+      "reputation": "réputation",
+      "and": "et de",
+      "moderation": "modération",
+      "suffix": "Discord avancé"
+    },
+    "description": "Protégez votre communauté Discord avec notre système intelligent de réputation et de modération automatisée",
+    "globalScore": {
+      "title": "Score Moyen Global",
+      "average": "Moyenne communauté",
+      "subtitle": "Basé sur l'activité de 20 000+ utilisateurs"
+    },
+    "cta": "Ajouter PURESYSTEM à Discord"
+  },
+  "userCard": {
+    "score": "Score",
+    "permissions": "Permissions",
+    "images": "Images", 
+    "links": "Liens",
+    "giveaways": "Giveaways",
+    "progress": "Progression",
+    "bandInsights": {
+      "toxic": "Utilisateur à risque élevé - Surveillance accrue",
+      "risky": "Comportement parfois problématique - Attention requise",
+      "neutral": "Utilisateur standard de la communauté",
+      "clean": "Membre actif et respectueux - Privilèges étendus",
+      "pure": "Utilisateur exemplaire - Accès complet"
+    }
+  },
+  "invite": {
+    "title": "Inviter PURESYSTEM",
+    "subtitle": "Ajoutez PURESYSTEM à votre serveur Discord en quelques clics",
+    "steps": {
+      "step1": {
+        "title": "Cliquer sur Inviter",
+        "description": "Utilisez le bouton d'invitation pour accéder à la page Discord"
+      },
+      "step2": {
+        "title": "Sélectionner le Serveur",
+        "description": "Choisissez le serveur où vous souhaitez ajouter PURESYSTEM"
+      },
+      "step3": {
+        "title": "Configurer les Permissions",
+        "description": "Accordez les permissions nécessaires pour un fonctionnement optimal"
+      }
+    },
+    "permissions": {
+      "title": "Permissions Recommandées",
+      "readMessages": "Lire les messages",
+      "sendMessages": "Envoyer des messages",
+      "manageMessages": "Gérer les messages", 
+      "kickMembers": "Exclure des membres",
+      "banMembers": "Bannir des membres",
+      "manageRoles": "Gérer les rôles"
+    },
+    "finalCta": "Inviter PURESYSTEM Maintenant"
+  },
+  "footer": {
+    "description": "Bot Discord de modération premium avec système de réputation avancé pour protéger votre communauté.",
+    "legal": {
+      "title": "Légal",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation"
+    },
+    "data": {
+      "title": "Vos Données",
+      "request": "Demander mes Données",
+      "deletion": "Supprimer mes Données"
+    },
+    "contact": {
+      "title": "Contact",
+      "discord": "Serveur Discord"
+    },
+    "rights": "Tous droits réservés.",
+    "status": {
+      "online": "En ligne"
+    },
+    "version": "Version"
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "subtitle": "Comment nous protégeons et utilisons vos données",
+    "lastUpdated": "Dernière mise à jour : 28 août 2024",
+    "intro": {
+      "title": "Introduction",
+      "content": "PURESYSTEM s'engage à protéger votre vie privée et vos données personnelles. Cette politique explique quelles données nous collectons, comment nous les utilisons et quels sont vos droits."
+    },
+    "dataCollection": {
+      "title": "Données Collectées",
+      "automatic": {
+        "title": "Collecte automatique :",
+        "discordId": "Identifiant Discord unique",
+        "username": "Nom d'utilisateur et discriminant",
+        "messages": "Contenu des messages publics (pour modération)",
+        "serverActivity": "Activité sur les serveurs (joins, leaves, etc.)"
+      },
+      "manual": {
+        "title": "Collecte manuelle :",
+        "email": "Adresse email (si fournie volontairement)",
+        "preferences": "Préférences de modération personnalisées",
+        "reports": "Rapports de signalement soumis"
+      }
+    },
+    "dataUsage": {
+      "title": "Utilisation des Données",
+      "moderation": "Modération automatisée et détection de comportements inappropriés",
+      "reputation": "Calcul et mise à jour du score de réputation",
+      "analytics": "Analyses statistiques anonymisées pour améliorer le service",
+      "support": "Support technique et résolution de problèmes"
+    },
+    "userRights": {
+      "title": "Vos Droits",
+      "access": {
+        "title": "Droit d'accès",
+        "description": "Demandez une copie de toutes vos données personnelles"
+      },
+      "rectification": {
+        "title": "Droit de rectification",
+        "description": "Corrigez ou mettez à jour vos informations personnelles"
+      },
+      "deletion": {
+        "title": "Droit à l'effacement", 
+        "description": "Supprimez définitivement toutes vos données de nos serveurs"
+      },
+      "portability": {
+        "title": "Portabilité",
+        "description": "Récupérez vos données dans un format structuré et lisible"
+      }
+    },
+    "contact": {
+      "title": "Nous Contacter",
+      "description": "Pour toute question concernant cette politique de confidentialité ou vos données personnelles :"
+    }
+  },
+  "terms": {
+    "title": "Conditions d'Utilisation",
+    "subtitle": "Règles et conditions pour utiliser PURESYSTEM",
+    "lastUpdated": "Dernière mise à jour : 28 août 2024",
+    "acceptance": {
+      "title": "Acceptation des Conditions",
+      "content": "En utilisant PURESYSTEM, vous acceptez ces conditions d'utilisation. Si vous n'acceptez pas ces termes, veuillez ne pas utiliser notre service."
+    },
+    "usage": {
+      "title": "Utilisation du Service",
+      "permitted": {
+        "title": "Utilisations autorisées :",
+        "moderation": "Modération de votre serveur Discord",
+        "reputation": "Gestion du système de réputation des membres", 
+        "community": "Amélioration de la sécurité communautaire"
+      },
+      "prohibited": {
+        "title": "Utilisations interdites :",
+        "abuse": "Utilisation abusive ou malveillante du bot",
+        "manipulation": "Tentative de manipulation du système de réputation",
+        "spam": "Spam ou envoi massif de commandes",
+        "illegal": "Toute activité illégale ou non autorisée"
+      }
+    },
+    "responsibilities": {
+      "title": "Responsabilités",
+      "user": {
+        "title": "Responsabilités de l'utilisateur",
+        "content": "Vous êtes responsable de l'utilisation appropriée du service et du respect des règles de Discord."
+      },
+      "service": {
+        "title": "Responsabilités du service",
+        "content": "Nous nous efforçons de maintenir un service fiable, mais ne garantissons pas une disponibilité à 100%."
+      }
+    },
+    "limitations": {
+      "title": "Limitations de Responsabilité",
+      "liability": "PURESYSTEM ne peut être tenu responsable des dommages directs ou indirects résultant de l'utilisation du service.",
+      "availability": "Nous ne garantissons pas que le service sera toujours disponible ou exempt d'erreurs."
+    },
+    "modifications": {
+      "title": "Modifications des Conditions",
+      "content": "Nous nous réservons le droit de modifier ces conditions à tout moment. Les utilisateurs seront notifiés des changements importants."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Pour toute question concernant ces conditions d'utilisation :"
+    }
+  },
+  "dataRequest": {
+    "title": "Demander mes Données",
+    "description": "Obtenez une copie complète de toutes vos données personnelles stockées par PURESYSTEM",
+    "info": {
+      "what": {
+        "title": "Que recevrez-vous ?",
+        "description": "Historique complet, scores, logs de modération et toutes données associées à votre compte"
+      },
+      "format": {
+        "title": "Format des données",
+        "description": "Fichier JSON structuré, facilement lisible et compatible avec d'autres services"
+      }
+    },
+    "form": {
+      "title": "Formulaire de Demande",
+      "discordId": "ID Discord",
+      "discordIdHelp": "Trouvez votre ID dans les paramètres Discord > Avancé > Mode Développeur",
+      "email": "Adresse Email",
+      "reason": "Raison de la demande (optionnel)",
+      "reasonPlaceholder": "Expliquez pourquoi vous demandez vos données...",
+      "reasonHelp": "Cette information nous aide à traiter votre demande plus efficacement",
+      "submit": "Envoyer la Demande"
+    },
+    "success": {
+      "title": "Demande Envoyée",
+      "message": "Votre demande de données a été enregistrée avec succès",
+      "nextSteps": "Prochaines étapes",
+      "timeline": "Vous recevrez vos données par email sous 30 jours maximum, conformément au RGPD",
+      "backHome": "Retour à l'Accueil"
+    }
+  },
+  "dataDeletion": {
+    "title": "Supprimer mes Données",
+    "warning": {
+      "title": "Action Irréversible",
+      "message": "Cette action supprimera définitivement toutes vos données. Cette opération ne peut pas être annulée."
+    },
+    "description": "Supprimez définitivement toutes vos données personnelles de nos serveurs",
+    "info": {
+      "what": {
+        "title": "Que sera supprimé ?",
+        "description": "Historique complet, scores, logs et toutes données associées à votre compte Discord"
+      },
+      "consequences": {
+        "title": "Conséquences",
+        "description": "Vous perdrez votre score de réputation et devrez recommencer à zéro si vous revenez"
+      }
+    },
+    "form": {
+      "title": "Formulaire de Suppression",
+      "discordId": "ID Discord",
+      "email": "Adresse Email",
+      "confirmation": "Confirmation",
+      "confirmationHelp": "Tapez exactement 'DELETE' pour confirmer la suppression",
+      "confirmationError": "Vous devez taper exactement 'DELETE' pour confirmer",
+      "reason": "Raison de la suppression (optionnel)",
+      "reasonPlaceholder": "Expliquez pourquoi vous souhaitez supprimer vos données...",
+      "submit": "Demander la Suppression"
+    },
+    "confirm": {
+      "title": "Confirmer la Suppression",
+      "content": "Êtes-vous absolument certain de vouloir supprimer définitivement toutes vos données ?",
+      "cancel": "Annuler",
+      "delete": "Confirmer la Suppression"
+    },
+    "success": {
+      "title": "Suppression Programmée",
+      "message": "Votre demande de suppression a été enregistrée avec succès",
+      "important": "Important",
+      "timeline": "Vos données seront supprimées sous 30 jours maximum, conformément au RGPD",
+      "backHome": "Retour à l'Accueil"
+    },
+    "legal": {
+      "notice": "Cette demande est traitée conformément à l'article 17 du RGPD (droit à l'effacement)."
+    }
+  },
+  "cookie": {
+    "title": "Cookies & Confidentialité",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience et analyser notre trafic.",
+    "accept": "Accepter",
+    "reject": "Refuser",
+    "details": {
+      "title": "Types de cookies :",
+      "essential": "Cookies essentiels (obligatoires)",
+      "analytics": "Cookies d'analyse (optionnels)",
+      "performance": "Cookies de performance (optionnels)"
+    }
+  },
+  "error": {
+    "404": {
+      "title": "Page Introuvable",
+      "message": "La page que vous recherchez semble avoir disparu dans les méandres de Discord.",
+      "suggestion": "Vérifiez l'URL ou retournez à l'accueil pour continuer votre navigation.",
+      "goHome": "Retour à l'accueil",
+      "goBack": "Page précédente",
+      "about": "Bot Discord de modération premium avec système de réputation avancé"
+    },
+    "500": {
+      "title": "Erreur Serveur",
+      "message": "Une erreur inattendue s'est produite sur nos serveurs.",
+      "suggestion": "Nos équipes ont été notifiées et travaillent sur une solution. Veuillez réessayer dans quelques minutes.",
+      "refresh": "Réessayer",
+      "goHome": "Retour à l'accueil",
+      "technical": {
+        "title": "Informations Techniques",
+        "timestamp": "Heure",
+        "code": "Code d'erreur",
+        "contact": "Si le problème persiste, contactez notre support."
+      }
+    }
+  }
+}

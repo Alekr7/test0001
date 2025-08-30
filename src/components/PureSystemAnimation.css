@@ -1,0 +1,49 @@
+/* Animation simple pour PURESYSTEM - Juste un liseré au hover */
+.puresystem-simple {
+  font-weight: 900;
+  font-size: inherit;
+  line-height: inherit;
+  background: linear-gradient(135deg, #ffffff 0%, #e5e5e5 50%, #cccccc 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Effet de liseré au hover */
+.puresystem-simple:hover {
+  text-shadow: 
+    0 0 2px rgba(16, 185, 129, 0.8),
+    0 0 4px rgba(16, 185, 129, 0.6),
+    0 0 6px rgba(16, 185, 129, 0.4),
+    0 0 8px rgba(16, 185, 129, 0.2);
+  
+  /* Effet de contour progressif */
+  -webkit-text-stroke: 1px rgba(16, 185, 129, 0.3);
+  text-stroke: 1px rgba(16, 185, 129, 0.3);
+}
+
+/* Animation du liseré qui apparaît progressivement */
+.puresystem-simple::after {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(45deg, 
+    rgba(16, 185, 129, 0.4), 
+    rgba(16, 185, 129, 0.6), 
+    rgba(16, 185, 129, 0.4));
+  border-radius: 8px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: -1;
+  filter: blur(4px);
+}
+
+.puresystem-simple:hover::after {
+  opacity: 1;
+}

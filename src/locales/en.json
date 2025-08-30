@@ -1,0 +1,305 @@
+{
+  "nav": {
+    "addToDiscord": "Add to Discord"
+  },
+  "hero": {
+    "badge": "Premium Discord Moderation Bot",
+    "title": "PURESYSTEM",
+    "subtitle": {
+      "prefix": "Advanced Discord",
+      "verification": "verification",
+      "comma": ",",
+      "reputation": "reputation",
+      "and": "and",
+      "moderation": "moderation",
+      "suffix": "system"
+    },
+    "description": "Protect your Discord community with our intelligent reputation and automated moderation system",
+    "globalScore": {
+      "title": "Global Average Score",
+      "average": "Community average",
+      "subtitle": "Based on activity from 20,000+ users"
+    },
+    "cta": "Add PURESYSTEM to Discord"
+  },
+  "userCard": {
+    "score": "Score",
+    "permissions": "Permissions",
+    "images": "Images",
+    "links": "Links", 
+    "giveaways": "Giveaways",
+    "progress": "Progress",
+    "bandInsights": {
+      "toxic": "High-risk user - Increased monitoring",
+      "risky": "Sometimes problematic behavior - Attention required",
+      "neutral": "Standard community member",
+      "clean": "Active and respectful member - Extended privileges",
+      "pure": "Exemplary user - Full access"
+    }
+  },
+  "invite": {
+    "title": "Invite PURESYSTEM",
+    "subtitle": "Add PURESYSTEM to your Discord server in just a few clicks",
+    "steps": {
+      "step1": {
+        "title": "Click Invite",
+        "description": "Use the invitation button to access the Discord page"
+      },
+      "step2": {
+        "title": "Select Server",
+        "description": "Choose the server where you want to add PURESYSTEM"
+      },
+      "step3": {
+        "title": "Configure Permissions",
+        "description": "Grant necessary permissions for optimal operation"
+      }
+    },
+    "permissions": {
+      "title": "Recommended Permissions",
+      "readMessages": "Read messages",
+      "sendMessages": "Send messages",
+      "manageMessages": "Manage messages",
+      "kickMembers": "Kick members",
+      "banMembers": "Ban members",
+      "manageRoles": "Manage roles"
+    },
+    "finalCta": "Invite PURESYSTEM Now"
+  },
+  "footer": {
+    "description": "Premium Discord moderation bot with advanced reputation system to protect your community.",
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "data": {
+      "title": "Your Data",
+      "request": "Request my Data",
+      "deletion": "Delete my Data"
+    },
+    "contact": {
+      "title": "Contact",
+      "discord": "Discord Server"
+    },
+    "rights": "All rights reserved.",
+    "status": {
+      "online": "Online"
+    },
+    "version": "Version"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "How we protect and use your data",
+    "lastUpdated": "Last updated: August 28, 2024",
+    "intro": {
+      "title": "Introduction",
+      "content": "PURESYSTEM is committed to protecting your privacy and personal data. This policy explains what data we collect, how we use it, and what your rights are."
+    },
+    "dataCollection": {
+      "title": "Data Collected",
+      "automatic": {
+        "title": "Automatic collection:",
+        "discordId": "Unique Discord identifier",
+        "username": "Username and discriminator",
+        "messages": "Public message content (for moderation)",
+        "serverActivity": "Server activity (joins, leaves, etc.)"
+      },
+      "manual": {
+        "title": "Manual collection:",
+        "email": "Email address (if voluntarily provided)",
+        "preferences": "Custom moderation preferences",
+        "reports": "Submitted reports"
+      }
+    },
+    "dataUsage": {
+      "title": "Data Usage",
+      "moderation": "Automated moderation and inappropriate behavior detection",
+      "reputation": "Calculation and updating of reputation score",
+      "analytics": "Anonymous statistical analysis to improve the service",
+      "support": "Technical support and problem resolution"
+    },
+    "userRights": {
+      "title": "Your Rights",
+      "access": {
+        "title": "Right of access",
+        "description": "Request a copy of all your personal data"
+      },
+      "rectification": {
+        "title": "Right of rectification",
+        "description": "Correct or update your personal information"
+      },
+      "deletion": {
+        "title": "Right to erasure",
+        "description": "Permanently delete all your data from our servers"
+      },
+      "portability": {
+        "title": "Portability",
+        "description": "Retrieve your data in a structured and readable format"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "For any questions regarding this privacy policy or your personal data:"
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "subtitle": "Rules and conditions for using PURESYSTEM",
+    "lastUpdated": "Last updated: August 28, 2024",
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By using PURESYSTEM, you accept these terms of use. If you do not accept these terms, please do not use our service."
+    },
+    "usage": {
+      "title": "Service Usage",
+      "permitted": {
+        "title": "Permitted uses:",
+        "moderation": "Moderation of your Discord server",
+        "reputation": "Management of member reputation system",
+        "community": "Improvement of community safety"
+      },
+      "prohibited": {
+        "title": "Prohibited uses:",
+        "abuse": "Abusive or malicious use of the bot",
+        "manipulation": "Attempt to manipulate the reputation system",
+        "spam": "Spam or mass sending of commands",
+        "illegal": "Any illegal or unauthorized activity"
+      }
+    },
+    "responsibilities": {
+      "title": "Responsibilities",
+      "user": {
+        "title": "User responsibilities",
+        "content": "You are responsible for appropriate use of the service and compliance with Discord rules."
+      },
+      "service": {
+        "title": "Service responsibilities",
+        "content": "We strive to maintain a reliable service, but do not guarantee 100% availability."
+      }
+    },
+    "limitations": {
+      "title": "Limitation of Liability",
+      "liability": "PURESYSTEM cannot be held responsible for direct or indirect damages resulting from use of the service.",
+      "availability": "We do not guarantee that the service will always be available or error-free."
+    },
+    "modifications": {
+      "title": "Terms Modifications",
+      "content": "We reserve the right to modify these terms at any time. Users will be notified of significant changes."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "For any questions regarding these terms of use:"
+    }
+  },
+  "dataRequest": {
+    "title": "Request my Data",
+    "description": "Get a complete copy of all your personal data stored by PURESYSTEM",
+    "info": {
+      "what": {
+        "title": "What will you receive?",
+        "description": "Complete history, scores, moderation logs and all data associated with your account"
+      },
+      "format": {
+        "title": "Data format",
+        "description": "Structured JSON file, easily readable and compatible with other services"
+      }
+    },
+    "form": {
+      "title": "Request Form",
+      "discordId": "Discord ID",
+      "discordIdHelp": "Find your ID in Discord settings > Advanced > Developer Mode",
+      "email": "Email Address",
+      "reason": "Reason for request (optional)",
+      "reasonPlaceholder": "Explain why you are requesting your data...",
+      "reasonHelp": "This information helps us process your request more efficiently",
+      "submit": "Send Request"
+    },
+    "success": {
+      "title": "Request Sent",
+      "message": "Your data request has been successfully recorded",
+      "nextSteps": "Next steps",
+      "timeline": "You will receive your data by email within 30 days maximum, in compliance with GDPR",
+      "backHome": "Back to Home"
+    }
+  },
+  "dataDeletion": {
+    "title": "Delete my Data",
+    "warning": {
+      "title": "Irreversible Action",
+      "message": "This action will permanently delete all your data. This operation cannot be undone."
+    },
+    "description": "Permanently delete all your personal data from our servers",
+    "info": {
+      "what": {
+        "title": "What will be deleted?",
+        "description": "Complete history, scores, logs and all data associated with your Discord account"
+      },
+      "consequences": {
+        "title": "Consequences",
+        "description": "You will lose your reputation score and will have to start over if you return"
+      }
+    },
+    "form": {
+      "title": "Deletion Form",
+      "discordId": "Discord ID",
+      "email": "Email Address",
+      "confirmation": "Confirmation",
+      "confirmationHelp": "Type exactly 'DELETE' to confirm deletion",
+      "confirmationError": "You must type exactly 'DELETE' to confirm",
+      "reason": "Reason for deletion (optional)",
+      "reasonPlaceholder": "Explain why you want to delete your data...",
+      "submit": "Request Deletion"
+    },
+    "confirm": {
+      "title": "Confirm Deletion",
+      "content": "Are you absolutely certain you want to permanently delete all your data?",
+      "cancel": "Cancel",
+      "delete": "Confirm Deletion"
+    },
+    "success": {
+      "title": "Deletion Scheduled",
+      "message": "Your deletion request has been successfully recorded",
+      "important": "Important",
+      "timeline": "Your data will be deleted within 30 days maximum, in compliance with GDPR",
+      "backHome": "Back to Home"
+    },
+    "legal": {
+      "notice": "This request is processed in accordance with Article 17 of GDPR (right to erasure)."
+    }
+  },
+  "cookie": {
+    "title": "Cookies & Privacy",
+    "description": "We use cookies to improve your experience and analyze our traffic.",
+    "accept": "Accept",
+    "reject": "Reject",
+    "details": {
+      "title": "Types of cookies:",
+      "essential": "Essential cookies (required)",
+      "analytics": "Analytics cookies (optional)",
+      "performance": "Performance cookies (optional)"
+    }
+  },
+  "error": {
+    "404": {
+      "title": "Page Not Found",
+      "message": "The page you are looking for seems to have disappeared into the depths of Discord.",
+      "suggestion": "Check the URL or return to the homepage to continue browsing.",
+      "goHome": "Back to Home",
+      "goBack": "Previous Page",
+      "about": "Premium Discord moderation bot with advanced reputation system"
+    },
+    "500": {
+      "title": "Server Error",
+      "message": "An unexpected error occurred on our servers.",
+      "suggestion": "Our teams have been notified and are working on a solution. Please try again in a few minutes.",
+      "refresh": "Retry",
+      "goHome": "Back to Home",
+      "technical": {
+        "title": "Technical Information",
+        "timestamp": "Time",
+        "code": "Error code",
+        "contact": "If the problem persists, contact our support."
+      }
+    }
+  }
+}

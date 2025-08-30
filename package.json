@@ -2,9 +2,11 @@
   "name": "puresystem-frontend",
   "version": "1.02.0",
   "private": true,
+  "homepage": "https://alekr7.github.io/test0001",
   "dependencies": {
+    "@radix-ui/react-slot": "^1.0.2",
     "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0", 
+    "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.6.0",
     "class-variance-authority": "^0.7.0",
@@ -22,7 +24,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build", 
+    "build": "react-scripts build",
     "test": "react-scripts test"
   },
   "eslintConfig": {
@@ -45,6 +47,9 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
+    "lodash.debounce": "^4.0.8",
+    "lodash.merge": "^4.6.2",
+    "lodash.sortby": "^4.7.0",
     "postcss": "^8.4.32"
   }
 }
